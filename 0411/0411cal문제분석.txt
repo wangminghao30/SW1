@@ -1,0 +1,17 @@
+문제정의
+    정수 2개와 연산자 1개(+,-,*,/)를 입력 받아서
+    사칙연산을 수해하는 프로그램 작성
+문제분석
+    1.변수
+      정수1(num1),정수2(num2),op(문자열)
+    2.수식
+      1 if  op="+":
+          print(num1+num2)
+        elif op="-":
+          print(num1-num2)
+        elif op="*":
+          print(num1*num2)
+        else op="/"
+          print(num1/num2)
+알고리즘
+   
